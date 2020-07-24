@@ -1,7 +1,2 @@
-# health-checks
-Scripts that check the health of my computers
-
-This repo will be populated with lots of fancy checks.
-Hi, I changed now.
-
-This is in experimental!
+#health-checks
+I am editing the README file. Adding some more details about the project description.
